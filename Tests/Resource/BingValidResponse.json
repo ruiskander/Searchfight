@@ -1,0 +1,403 @@
+﻿{
+  "_type": "SearchResponse",
+  "queryContext": { "originalQuery": ".net" },
+  "webPages": {
+    "webSearchUrl": "https:\/\/www.bing.com\/search?q=.net",
+    "totalEstimatedMatches": 64200000,
+    "value": [
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#WebPages.0",
+        "name": ".NET | Free. Cross-platform. Open Source.",
+        "url": "https:\/\/dotnet.microsoft.com\/",
+        "about": [ { "name": ".NET Framework" } ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https:\/\/dotnet.microsoft.com",
+        "snippet": ".NET is a developer platform with tools and libraries for building any type of app, including web, mobile, desktop, gaming, IoT, cloud, and microservices.",
+        "deepLinks": [
+          {
+            "name": "Download .NET Framework",
+            "url": "https:\/\/dotnet.microsoft.com\/download\/dotnet-framework",
+            "snippet": "Download .NET Framework.NET Framework is a Windows-only version of .NET for building any type of app that runs on Windows."
+          },
+          {
+            "name": "Net Tutorial",
+            "url": "https:\/\/dotnet.microsoft.com\/learn\/dotnet\/hello-world-tutorial\/intro",
+            "snippet": "Install .NET and create your first application. A simple application written in C# that prints Hello, World! to the console. If playback doesn't begin shortly, try restarting your device. Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer."
+          },
+          {
+            "name": "What is .Net? an Open-Source",
+            "url": "https:\/\/dotnet.microsoft.com\/learn\/dotnet\/what-is-dotnet",
+            "snippet": ".NET is a free, cross-platform, open source developer platform for building many different types of applications. With .NET, you can use multiple languages, editors, and libraries to build for web, mobile, desktop, gaming, and IoT. You can write .NET apps in C#, F#, or Visual Basic. C# is a simple, modern, object-oriented, and type-safe ..."
+          },
+          {
+            "name": "ASP.NET",
+            "url": "https:\/\/dotnet.microsoft.com\/apps\/aspnet",
+            "snippet": "ASP.NET. Free. Cross-platform. Open source. A framework for building web apps and services with .NET and C#. Get Started Download. Supported on Windows, Linux, and macOS"
+          },
+          {
+            "name": "Net Game Development on Windows, Linux, Or Macos",
+            "url": "https:\/\/dotnet.microsoft.com\/apps\/gaming",
+            "snippet": "Unity is a game development platform for building 2D and 3D games using .NET and the C# programming language. Build games that run on 25+ platforms across mobile, desktop, console, TV, VR, AR and the Web. Develop Unity games on Windows and macOS. Get powerful debugging for Unity games with Visual Studio. MonoGame is an open source game ..."
+          },
+          {
+            "name": "Xamarin",
+            "url": "https:\/\/dotnet.microsoft.com\/apps\/xamarin",
+            "snippet": "Xamarin.Forms is an open source mobile UI framework from Microsoft for building iOS, Android, & Windows apps with .NET from a single shared codebase. Whether you want a consistent look across platforms or prefer native look and feel, Xamarin.Forms will get you up and running in no time."
+          }
+        ],
+        "dateLastCrawled": "2020-06-05T07:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": true
+      },
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#WebPages.1",
+        "name": "Download Microsoft .NET Framework 3.5 from Official ...",
+        "url": "https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=21",
+        "about": [
+          { "name": "Microsoft .NET Framework 3.5" },
+          { "name": "Microsoft .NET Framework 3.5" }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=21",
+        "snippet": ".NET Framework 3.5 builds incrementally on the new features added in .NET Framework 3.0. For example, feature sets in Windows Workflow Foundation (WF), Windows Communication Foundation (WCF), Windows Presentation Foundation (WPF) and Windows CardSpace.",
+        "dateLastCrawled": "2020-06-05T08:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#WebPages.2",
+        "contractualRules": [
+          {
+            "_type": "ContractualRules\/LicenseAttribution",
+            "targetPropertyName": "snippet",
+            "targetPropertyIndex": 3,
+            "mustBeCloseToContent": true,
+            "license": {
+              "name": "CC-BY-SA",
+              "url": "http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/"
+            },
+            "licenseNotice": "Текст за ліцензією CC-BY-SA"
+          }
+        ],
+        "name": ".NET Framework - Wikipedia",
+        "url": "https:\/\/en.wikipedia.org\/wiki\/.NET_Framework",
+        "about": [
+          { "name": ".NET Framework" },
+          { "name": ".NET Framework" }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https:\/\/en.wikipedia.org\/wiki\/.NET_Framework",
+        "snippet": ".NET Framework (pronounced as \"dot net\") is a software framework developed by Microsoft that runs primarily on Microsoft Windows.It includes a large class library called Framework Class Library (FCL) and provides language interoperability (each language can use code written in other languages) across several programming languages.Programs written for .NET Framework execute in a software ...",
+        "dateLastCrawled": "2020-06-05T08:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#WebPages.3",
+        "name": "Download Microsoft .NET Framework 4.5 from Official ...",
+        "url": "https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=30653",
+        "about": [
+          { "name": "Microsoft .NET Framework 4.5" },
+          { "name": "Microsoft .NET Framework 4.5" }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=30653",
+        "snippet": "The .NET Framework 4.5 is a highly compatible, in-place update to the .NET Framework 4. By using the .NET Framework 4.5 together with the C#, Visual Basic, or F# programming language, you can write Windows apps.",
+        "dateLastCrawled": "2020-06-05T08:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#WebPages.4",
+        "contractualRules": [
+          {
+            "_type": "ContractualRules\/LicenseAttribution",
+            "targetPropertyName": "snippet",
+            "targetPropertyIndex": 5,
+            "mustBeCloseToContent": true,
+            "license": {
+              "name": "CC-BY-SA",
+              "url": "http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/"
+            },
+            "licenseNotice": "Текст за ліцензією CC-BY-SA"
+          }
+        ],
+        "name": ".NET Framework — Вікіпедія",
+        "url": "https:\/\/uk.wikipedia.org\/wiki\/.NET_Framework",
+        "about": [
+          { "name": ".NET Framework" },
+          { "name": ".NET Framework" }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https:\/\/uk.wikipedia.org\/wiki\/.NET_Framework",
+        "snippet": ".NET Framework 1.0. Перший реліз .NET Framework вийшов 5 січня 2002 року для Windows 98, NT 4.0, 2000 та XP.Загальна підтримка здійснювалась компанією Майкрософт, закінчилася 10 липня 2007 року, а розширена підтримка закінчилася 14 липня 2009 року.",
+        "dateLastCrawled": "2020-06-04T11:56:00.0000000Z",
+        "language": "uk",
+        "isNavigational": false
+      },
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#WebPages.5",
+        "contractualRules": [
+          {
+            "_type": "ContractualRules\/LicenseAttribution",
+            "targetPropertyName": "snippet",
+            "targetPropertyIndex": 6,
+            "mustBeCloseToContent": true,
+            "license": {
+              "name": "CC-BY-SA",
+              "url": "http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/"
+            },
+            "licenseNotice": "Текст за ліцензією CC-BY-SA"
+          }
+        ],
+        "name": ".NET – Wikipedia",
+        "url": "https:\/\/de.wikipedia.org\/wiki\/.NET",
+        "about": [
+          { "name": ".net" },
+          { "name": ".NET Framework" }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https:\/\/de.wikipedia.org\/wiki\/.NET",
+        "snippet": ".NET [ˈdɔtnɛt], teilweise auch als Microsoft .NET bezeichnet, dient als Sammelbegriff für mehrere von Microsoft herausgegebene Software-Plattformen, die der Entwicklung und Ausführung von Anwendungsprogrammen dienen, Produkte, Frameworks, Programmiersprachen und alles, was mit den genannten in Verbindung steht, etwa Werkzeuge und Technologien.. Die Veröffentlichung der .NET-Plattform ...",
+        "dateLastCrawled": "2020-06-05T04:35:00.0000000Z",
+        "language": "de",
+        "isNavigational": false
+      },
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#WebPages.6",
+        "name": ".NET",
+        "url": "https:\/\/baike.baidu.com\/item\/.NET\/156737",
+        "isFamilyFriendly": true,
+        "displayUrl": "https:\/\/baike.baidu.com\/item\/.NET\/156737",
+        "snippet": ".NET是 Microsoft XML Web services 平台。XML Web services 允许应用程序通过 Internet 进行通讯和共享数据，而不管所采用的是哪种操作系统、设备或编程语言。Microsoft .NET 平台提供创建 XML Web services 并将这些服务集成在一起之所需。对个人用户的好处是无缝的、吸引人的体验。",
+        "dateLastCrawled": "2020-06-04T19:36:00.0000000Z",
+        "language": "zh_chs",
+        "isNavigational": false
+      },
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#WebPages.7",
+        "name": "Microsoft .NET Framework 4.7.2 offline installer for Windows",
+        "url": "https:\/\/support.microsoft.com\/en-us\/help\/4054530\/microsoft-net-framework-4-7-2-offline-installer-for-windows",
+        "about": [ { "name": ".NET Framework" } ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https:\/\/support.microsoft.com\/en-us\/help\/4054530",
+        "snippet": "Microsoft .NET Framework 4.7.2 is a highly compatible, in-place update to .NET Framework 4, 4.5, 4.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, and 4.7.1.. The offline package can be used in situations in which the web installer cannot be used because of a lack of Internet connectivity. This package is larger than the web installer and does not include the language packs.",
+        "dateLastCrawled": "2020-06-05T08:22:00.0000000Z",
+        "searchTags": [
+          {
+            "name": "search.product",
+            "content": "\"eADQiWindows 7 Service Pack 1XVcnh\"; eadqiwindows; 7; service; pack; 1xvcnh"
+          },
+          {
+            "name": "search.keywords",
+            "content": "\"kbupdate\"; kbupdate"
+          },
+          {
+            "name": "search.description",
+            "content": "\"Description of Microsoft .NET Framework 4.7.2 offline installer for Windows\"; description; of; microsoft; net; framework; 4; 7; 2; offline; installer; for; windows"
+          },
+          {
+            "name": "search.products",
+            "content": "\"e19a4ce2-b165-01bb-241a-cfb7943cc611,91ff007a-065b-95c3-efaf-e95d72db867e,8343388f-5658-9fc4-7c56-12aa484159ba,e51103b3-9b99-948e-95ff-fd63b48f329b,3ec8448d-ebc8-8fc0-e0b7-9e8ef6c79918,b2012b15-7770-3165-b934-5b004ee86f67,0cfbf2af-24ea-3e18-17e6-02df7331b571,417baa75-0c45-df0a-8e65-960580d94f42,9087adda-9d1d-0ba1-1b0b-ad434f940308\"; e19a4ce2; b165; 01bb; 241a; cfb7943cc611; 91ff007a; 065b; 95c3; efaf; e95d72db867e; 8343388f; 5658; 9fc4; 7c56; 12aa484159ba; e51103b3; 9b99; 948e; 95ff; fd63b48f329b; 3ec8448d; ebc8; 8fc0; e0b7; 9e8ef6c79918; b2012b15; 7770; 3165; b934; 5b004ee86f67; 0cfbf2af; 24ea; 3e18; 17e6; 02df7331b571; 417baa75; 0c45; df0a; 8e65; 960580d94f42; 9087adda; 9d1d; 0ba1; 1b0b; ad434f940308"
+          }
+        ],
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#WebPages.8",
+        "name": ".NET 文档 | Microsoft Docs",
+        "url": "https:\/\/docs.microsoft.com\/zh-cn\/dotnet\/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https:\/\/docs.microsoft.com\/zh-cn\/dotnet",
+        "snippet": ".NET 文档. 了解如何通过 C#、Visual Basic 和 F# 在任意平台上使用 .NET 创建应用程序。 浏览 API 引用、代码示例、教程以及其他内容。",
+        "dateLastCrawled": "2020-06-05T04:37:00.0000000Z",
+        "searchTags": [
+          {
+            "name": "search.ms_docsetname",
+            "content": "\"core-docs\"; core; docs"
+          },
+          {
+            "name": "search.ms_product",
+            "content": "\"VS\"; vs"
+          },
+          {
+            "name": "search.ms_sitename",
+            "content": "\"Docs\"; docs"
+          },
+          {
+            "name": "search.mshattr.devlang",
+            "content": "\"csharp\"; csharp"
+          }
+        ],
+        "language": "zh_chs",
+        "isNavigational": false
+      }
+    ]
+  },
+  "entities": {
+    "value": [
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#Entities.0",
+        "contractualRules": [
+          {
+            "_type": "ContractualRules\/LicenseAttribution",
+            "targetPropertyName": "description",
+            "mustBeCloseToContent": true,
+            "license": {
+              "name": "CC-BY-SA",
+              "url": "http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/"
+            },
+            "licenseNotice": "Текст за ліцензією CC-BY-SA"
+          },
+          {
+            "_type": "ContractualRules\/LinkAttribution",
+            "targetPropertyName": "description",
+            "mustBeCloseToContent": true,
+            "text": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/.NET_Framework"
+          },
+          {
+            "_type": "ContractualRules\/MediaAttribution",
+            "targetPropertyName": "image",
+            "mustBeCloseToContent": true,
+            "url": "http:\/\/en.wikipedia.org\/wiki\/.NET_Framework"
+          }
+        ],
+        "webSearchUrl": "https:\/\/www.bing.com\/entityexplore?q=.NET+Framework&filters=sid:%22c33c8302-b486-3585-a712-1a6443b060bb%22&elv=AXXfrEiqqD9r3GuelwApulpINi4azCEBIZ!W7AuV2ssclopMylCUPcj1bA0fdt7ccUskGpuQ9DjNbZhWhllCrUY*av6Etxzz9zWdBn!Gpbpv",
+        "name": ".NET Framework",
+        "url": "https:\/\/dotnet.microsoft.com\/",
+        "image": {
+          "name": ".NET Framework",
+          "thumbnailUrl": "https:\/\/www.bing.com\/th?id=AMMS_fe812f76a479034bed4bb1b9faf7a9ff&w=110&h=110&c=7&rs=1&qlt=80&cdv=1&pid=16.1",
+          "provider": [
+            {
+              "_type": "Organization",
+              "url": "http:\/\/en.wikipedia.org\/wiki\/.NET_Framework"
+            }
+          ],
+          "hostPageUrl": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a3\/.NET_Logo.svg\/500px-.NET_Logo.svg.png",
+          "width": 110,
+          "height": 110,
+          "sourceWidth": 474,
+          "sourceHeight": 474
+        },
+        "description": ".NET Framework is a software framework developed by Microsoft that runs primarily on Microsoft Windows. It includes a large class library called Framework Class Library and provides language interoperability across several programming languages. Programs written for.NET Framework execute in a software environment named the Common Language Runtime. The CLR is an application virtual machine that provides services such as security, memory management, and exception handling. As such, computer code written using.NET Framework is called \"managed code\". FCL and CLR together constitute the.NET Framework.",
+        "entityPresentationInfo": {
+          "entityScenario": "DominantEntity",
+          "entityTypeHints": [ "Generic" ]
+        },
+        "bingId": "c33c8302-b486-3585-a712-1a6443b060bb"
+      }
+    ]
+  },
+  "relatedSearches": {
+    "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#RelatedSearches",
+    "value": [
+      {
+        "text": "net speed test",
+        "displayText": "net speed test",
+        "webSearchUrl": "https:\/\/www.bing.com\/search?q=net+speed+test"
+      },
+      {
+        "text": "netflix movies a to z",
+        "displayText": "netflix movies a to z",
+        "webSearchUrl": "https:\/\/www.bing.com\/search?q=netflix+movies+a+to+z"
+      },
+      {
+        "text": "nets nba schedule",
+        "displayText": "nets nba schedule",
+        "webSearchUrl": "https:\/\/www.bing.com\/search?q=nets+nba+schedule"
+      },
+      {
+        "text": "dot net framework",
+        "displayText": "dot net framework",
+        "webSearchUrl": "https:\/\/www.bing.com\/search?q=dot+net+framework"
+      },
+      {
+        "text": "full list of netflix movies",
+        "displayText": "full list of netflix movies",
+        "webSearchUrl": "https:\/\/www.bing.com\/search?q=full+list+of+netflix+movies"
+      },
+      {
+        "text": "definition of net",
+        "displayText": "definition of net",
+        "webSearchUrl": "https:\/\/www.bing.com\/search?q=definition+of+net"
+      },
+      {
+        "text": "nets lineup",
+        "displayText": "nets lineup",
+        "webSearchUrl": "https:\/\/www.bing.com\/search?q=nets+lineup"
+      },
+      {
+        "text": "netflix movie library list",
+        "displayText": "netflix movie library list",
+        "webSearchUrl": "https:\/\/www.bing.com\/search?q=netflix+movie+library+list"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": { "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#WebPages.0" }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": { "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#WebPages.1" }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": { "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#WebPages.2" }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": { "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#WebPages.3" }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": { "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#WebPages.4" }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": { "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#WebPages.5" }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": { "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#WebPages.6" }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": { "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#WebPages.7" }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": { "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#WebPages.8" }
+        },
+        {
+          "answerType": "RelatedSearches",
+          "value": { "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#RelatedSearches" }
+        }
+      ]
+    },
+    "sidebar": {
+      "items": [
+        {
+          "answerType": "Entities",
+          "resultIndex": 0,
+          "value": { "id": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/#Entities.0" }
+        }
+      ]
+    }
+  }
+}
