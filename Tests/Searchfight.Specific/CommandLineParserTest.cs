@@ -121,6 +121,18 @@ namespace Tests.Searchfight.Specific
             Assert.IsTrue(competitors[1] == args[2]);
         }
 
+        [TestMethod]
+        public void TestWithOneQuote()
+        {
+            var args = new[] { "first", "\"second1", "second2", "second3", "third" };
+            PrintArr("Args: ", args);
+
+            Assert.ThrowsException<CompetitorsLessThanTwoException>(() =>
+            {
+                var competitors = _parser.GetCompetitors(args);
+            });
+        }
+
         private void PrintArr(string message, IEnumerable<string> arr)
         {
             Console.WriteLine(message + string.Join(", ", arr.Select(s => $"[{s}]")));
